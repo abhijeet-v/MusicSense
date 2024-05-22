@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/home/avr/Projects/MusicSense/.venv/bin/python3",
+    "python.linting.cwd": "${workspaceFolder}",
+    "python.linting.lintOnSave": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.mypyEnabled": true,
+    "files.autoSave": "onWindowChange",
+    "python.linting.enabled": true,
+    "python.linting.mypyCategorySeverity.error": "Error"
+}
